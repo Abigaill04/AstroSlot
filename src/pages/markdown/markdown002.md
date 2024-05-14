@@ -1,7 +1,8 @@
 ---
 title: "Markdown Demo Part 2"
 date: 2024-05-15
-layout: "../../layouts/MarkdownLayout.astro"
+author: "Abigail Lee"
+description: "Markdown with Layout Path"
 ---
 
 # Markdown Demo Part 2

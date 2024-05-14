@@ -1,6 +1,8 @@
 ---
 title: "Markdown Demo Part 0"
 date: 2024-05-12
+author: "Abigail Lee"
+description: "Markdown Component"
 ---
 
 # Markdown Demo Part 0
