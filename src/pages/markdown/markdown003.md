@@ -3,6 +3,8 @@ title: "Markdown Demo Part 3"
 date: 2024-05-22
 author: "Abigail Lee"
 description: "Markdown Single File"
+layout: "../../layouts/BaseLayout.astro"
+
 ---
 
 # Markdown Demo Part 3
